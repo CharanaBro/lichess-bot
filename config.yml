@@ -1,4 +1,4 @@
-token: "xxxxxxxxxxxxxxxx"    # Lichess OAuth2 Token.
+token: "lip_NuzXwRjEJ7t4GzeBU3kZ"    # Lichess OAuth2 Token.
 url: "https://lichess.org/"  # Lichess base URL.
 
 engine:                      # Engine settings.
@@ -98,7 +98,7 @@ challenge:                   # Incoming challenges.
   min_base: 0                # Minimum amount of base time to accept a challenge.
   variants:                  # Chess variants to accept (https://lichess.org/variant).
     - standard
-    - fromPosition
+#   - fromPosition
 #   - antichess
 #   - atomic
     - chess960
